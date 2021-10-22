@@ -1,0 +1,43 @@
+.section-news li {
+padding: 10px;
+}
+
+.selection-hot li:hover {
+background-color: cadetblue;
+}
+
+.selection-realty li:hover {
+    background-color: darkolivegreen; 
+}
+
+.selection-hot .footer {
+   color:  cadetblue;
+   background-color: white;
+}
+
+.selection-realty .footer {
+    color:  darkolivegreen; 
+    background-color: white;
+}
+
+li:hover a {
+    color: white;
+}
+
+h2 {
+color: white;
+padding: 10px;
+}
+
+.selection-hot h2 {
+background-color: darkolivegreen;
+}
+
+.selection-realty h2 {
+    background-color: cadetblue
+    }
+
+.footer{
+    color: white;
+    background-color: red;
+}
